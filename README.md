@@ -12,7 +12,7 @@
 Hi, im hukz from the Netherlands and i am interested in learning html css and js.
 
 ## Current projects
-* Personal website
+* Personal website (currently private)
 
 ## Languages i'm learning
 * html
